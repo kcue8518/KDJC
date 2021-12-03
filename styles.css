@@ -1,0 +1,19 @@
+#News {
+	 float: left;
+  width: 50%;
+}
+
+#row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ nav a {
+	 text-decoration: none;
+	 color: #03bafc;
+ }
+ 
+  body {
+	  background-color: #e3ccf0;
+  }
