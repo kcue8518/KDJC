@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<Title>Social Media Hacks
+</Title>
+<link rel="stylesheet" href="styles.css">                                                                 
+</head>
+<body>
+<img src="banner.jpg" width="100%" height="50px">
+<nav>
+<a href="index.html">Home</a>
+<a href="facebook.html">Facebook/Whatsapp</a>
+<a href="twitter.html">Twitter</a>
+<a href="snapchat.html">Snapchat</a>
+<a href="instagram.html">Instagram</a>
+</nav>
+<h1>instagram /
+<img src="fb.png" width="25%">
+<img src="wa.png" width="25%">
+<h3> Background</h3>
+<p>instagram are owned by a company that get hacked frequently. 
+instagram was created back in October 6, 2010 
+ instagram is a popular social media websites that people use to communicate with their friends and family members. 
+Individuals use it to share post moments, the citizens put a lot of trust into these platforms and believe it's hard to get hack into. However, espicially with these new modern technologies, hackers find it easier to hack into others account.
+</p>
+<div id="row">
+<div id="News">
+<h3> instagram</h3>
+<p>Instagram is one of the most popular social networks, and is one of the sites targeted with thousands of hacking attacks. Large number of users attractive for phishing and malicious attacks.
+ </p>
+</div>
+<div id="News">
+<h3> </h3>
+<p> A vulneralbility for instagram are weak passwords, remote keyloggers, mobile operating system, and phishing emails. 
+</p>
+
+</div>
+</div>
+
+</body>
+</html>
