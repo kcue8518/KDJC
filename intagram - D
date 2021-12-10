@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<Title>Social Media Hacks
+</Title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<img src="banner.jpg" width="100%" height="50px">
+<nav>
+<a href="index.html">Home</a>
+<a href="facebook.html">Facebook/Whatsapp</a>
+<a href="twitter.html">Twitter</a>
+<a href="snapchat.html">Snapchat</a>
+<a href="instagram.html">Instagram</a>
+</nav>
+<h1>Instagram</h1>
+<h3> Background</h3>
+<p>Instagram can get hacked frequently. 
+Instagram was created by Kevin Syrome In Febuary 10.
+Instagram is an online photo-sharing application and social network platform. It allow users to edit and upload photos.
+They also use it to share special memories, people have a lot of trust in these platforms. These platforms are not secure and at this point, hackers log in for fun or just to see if they have the skills to do it. 
+</p>
+<div id="row">
+<div id="News">
+<h3> instagram</h3>
+<p> Ways that instagram get hack is by Phishing emails, Keyloggers, and Weak passwords 
+ </p>
+</div>
+<div id="News">
+<h3> instagram</h3>
+<p> A vulnerability for instagram is that it has given an ability for hackers to take over a user's instagram account and turning the phone into a spying tool.
+</p> With modern technologies, apps such as instagram are way easier to get hacked into.
+
+</div>
+</div>
+
+</body>
+</html>
+     
